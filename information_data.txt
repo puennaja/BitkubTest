@@ -1,0 +1,2 @@
+Book name: Mastering Ethereum , page = 70
+site: https://books.google.co.th/books?id=nJJ5DwAAQBAJ&pg=PA70&lpg=PA70&dq=ecc+public+key+hex+0x04+to+0x03+example&source=bl&ots=uBJNapM4qG&sig=ACfU3U333WZsabI5ciBD7k8nsVL3RcJpAw&hl=th&sa=X&ved=2ahUKEwiqiM-A0br0AhUPUGwGHbhFAmkQ6AF6BAgVEAM#v=onepage&q=ecc%20public%20key%20hex%200x04%20to%200x03%20example&f=false
