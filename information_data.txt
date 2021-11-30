@@ -1,2 +1,13 @@
 Book name: Mastering Ethereum , page = 70
 site: https://books.google.co.th/books?id=nJJ5DwAAQBAJ&pg=PA70&lpg=PA70&dq=ecc+public+key+hex+0x04+to+0x03+example&source=bl&ots=uBJNapM4qG&sig=ACfU3U333WZsabI5ciBD7k8nsVL3RcJpAw&hl=th&sa=X&ved=2ahUKEwiqiM-A0br0AhUPUGwGHbhFAmkQ6AF6BAgVEAM#v=onepage&q=ecc%20public%20key%20hex%200x04%20to%200x03%20example&f=false
+
+Ethereum Website
+site: https://ethereum.org/en/developers/docs/accounts/
+
+Keccak python lib (PyCryptodome)
+site: https://keccak.team/software.html
+
+BTC technical 
+site: https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses
+site: https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/ch04.html
+site: https://medium.com/@tunatore/how-to-generate-bitcoin-addresses-technical-address-generation-explanation-and-online-course-a6b46a2fe866
